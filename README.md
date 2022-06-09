@@ -1,6 +1,6 @@
 # Alura Voz: Data Science Challenge
 
-Alura Data Science Challenge to develop a set of supervised machine learning analyzes and models to help Alura Voz's sales team build customer loyalty.
+Alura's Data Science Challenge to develop a set of supervised machine learning analyzes and models to help Alura Voz's sales team build customer loyalty.
 
 Alura Voz is a telecommunications company that hired us to act as data scientists on the sales team. We need to carry out a study on the company's Churn. Churn indicates whether or not a customer has canceled their contract with the company, and helps us understand the company's bottom line.
 
