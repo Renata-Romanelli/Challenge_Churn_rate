@@ -1,4 +1,4 @@
-# Alura Voz: Challenge Data Science
+# Alura Voz: Data Science Challenge
 
 Alura Data Science Challenge to develop a set of supervised machine learning analyzes and models to help Alura Voz's sales team build customer loyalty.
 
