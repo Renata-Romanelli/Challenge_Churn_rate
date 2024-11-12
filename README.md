@@ -6,8 +6,8 @@ We need to carry out a study on the company's Churn. Churn indicates whether or 
 
 The work will be divided into 4 weeks:
 
-- Day 1: Understanding the data
-- Day 2: Data Visualization
-- Day 3 and 4: Training and Validation of Machine Learning Models
+- Week 1: Understanding the data
+- Week 2: Data Visualization
+- Week 3 and 4: Training and Validation of Machine Learning Models
 
 Note: The view of .ipynb files by github does not include the visualization of certain libraries like "plotly" and "Pandas Profiling". It is recommended that files be viewed via google colab
